@@ -34,7 +34,7 @@ const menuData = {
       price: 120,
       type: "Veg",
       image:
-        "https://images.unsplash.com/photo- pizza",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROPXxPwfxiwWMk5odEAa5p8FfJ4DDFBCMIR9r1O5K8pw&s",
     },
   ],
 
@@ -51,9 +51,9 @@ const menuData = {
       id: 6,
       name: "Biryani",
       price: 100,
-      type: "Veg",
+      type: "Non-Veg",
       image:
-        "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=500",
+        "https://i.pinimg.com/474x/67/e7/ff/67e7ff9859d6c9df0c30b897bf901e1d.jpg",
     },
     {
       id: 7,
@@ -96,7 +96,7 @@ const menuData = {
       price: 30,
       type: "Veg",
       image:
-        "https://images.unsplash.com/photo-1513558161293-cdaf765edfd7?w=500",
+        "https://png.pngtree.com/png-clipart/20240115/original/pngtree-watercolor-lemon-soda-drink-free-element-png-image_14116814.png",
     },
     {
       id: 12,
