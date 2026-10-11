@@ -2,13 +2,13 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className="hero w-full h-[500px] bg-yellow-500">
-        <div className="content">
-          <div className="text">
-            <h2>Fresh. Fast. Affordable</h2>
-            <h1>Good food between your lectures</h1>
-            <h2>Hot meals, snacks, and combos made for students</h2>
-            <button className="btn">Visit Menu</button>
+    <div className="hero w-full h-[400px] bg-[#311A00]">
+        <div className="content  flex flex-row items-center justify-center gap-40 px-20 py-10">
+          <div className="text flex flex-col items-start justify-center gap-2">
+            <h2 className="text-2xl text-[#ffcb3d] font-semibold">Fresh. Fast. Affordable</h2>
+            <h1 className="text-6xl text-white font-bold">Good food between your lectures</h1>
+            <h2 className="text-2xl text-gray-300 font-medium mt-4">Hot meals, snacks, and combos made for students</h2>
+            <button className="btn w-[150px] h-[50px] bg-white text-black font-bold hover:bg-gray-200 mt-4 rounded-xl font-light text-xl">Visit Menu</button>
           </div>
 
           <div className="w-[40%] h-[300px] flex flex-col items-center justify-center gap-2 bg-[#2d1905] border border-dashed border-[#6a4c2b] rounded-2xl text-[#f5d6a0]">

@@ -4,7 +4,7 @@ import { ChefHat, ShoppingCart, Moon } from 'lucide-react';
 const Header = () => {
   return (
     <div>
-      <div className="box w-full h-[80px] bg-black text-white flex justify-between flex-row align-center">
+      <div className="box w-full h-[80px] bg-[#1A1A19] text-white flex justify-between flex-row align-center">
 
         <ChefHat className="ml-35 align-center mt-4" size={40} color="#ffcb3d" />
         <h1 className="font-bold text-4xl text-white pt-4 pr-100">
