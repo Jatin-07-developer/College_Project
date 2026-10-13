@@ -10,7 +10,7 @@ const menuData = {
       price: 50,
       type: "Veg",
       image:
-        "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=500",
+      "https://images.unsplash.com/photo-1768215610440-fcb96https://media.istockphoto.com/id/1160637981/photo/homemade-double-chocolate-brownies-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=uZTLiAOqatPVij_BDTUzfoA96937-53cCE7FnamqoFU=31c7ee2?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ const menuData = {
       price: 80,
       type: "Veg",
       image:
-        "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500",
+      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ const menuData = {
       price: 60,
       type: "Veg",
       image:
-        "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500",
+        "https://media.istockphoto.com/id/1328011797/photo/veg-grilled-sandwich.jpg?s=612x612&w=0&k=20&c=ypz6qjTqrrnl7jUSYgpjkMkStVicxTpwpJXbDxJS5XI=",
     },
     {
       id: 4,
@@ -34,103 +34,103 @@ const menuData = {
       price: 120,
       type: "Veg",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROPXxPwfxiwWMk5odEAa5p8FfJ4DDFBCMIR9r1O5K8pw&s",
+        "https://media.istockphoto.com/id/1303119992/photo/pizza_margerita.jpg?s=612x612&w=0&k=20&c=0HZZMC10ySBYvMVAKUNzknkQ1E74q8NKwTV5_K6WK6M=",
     },
     {
       id: 5,
       name: "Nachos",
       price: 70,
-      image: "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=600&q=80"
+      image: "https://media.istockphoto.com/id/474048190/photo/nachos-supreme.jpg?s=612x612&w=0&k=20&c=CWnaGAVNGeF8sOF92BuZz7iM_JVBdfgO4TmPNokWcIg="
     },
     {
       id: 6,
       name: "Onion Pakoda",
       price: 55,
-      image: "https://commons.wikimedia.org/wiki/Special:FilePath/Onion_Pakoda.jpg"
+      image: "https://media.istockphoto.com/id/177314242/photo/vegetable-pakora.jpg?s=612x612&w=0&k=20&c=iiVKreSzqvNN7UxGaDUw3HKU5jK-htT1DppUA89QtyE="
     },
     {
       id: 7,
       name: "Khaman Dhokla",
       price: 50,
-      image: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+      image: "https://media.istockphoto.com/id/513952576/photo/dhokla-indian-food.jpg?s=612x612&w=0&k=20&c=Vu4MISsQyfBgCy54Ju_vlDIuhaSzmfzhE9jC7LiD_yY="
     },
     {
       id: 8,
       name: "Bhel Puri",
       price: 20,
-      image: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=600&q=80"
+      image: "https://media.istockphoto.com/id/2075152539/photo/tasty-bhelpuri-is-a-savoury-snack-or-chaat-it-is-made-out-of-puffed-rice-vegetables-and-a.jpg?s=612x612&w=0&k=20&c=A-24HiNYIwW2UCwj5sIfWEQatE0gb4coxuuy6zEtxWU="
     },
     {
     id: 9,
     name: "Samosa",
     price: 15,
-    image: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/1400083547/photo/fried-samosas-with-vegetable-filling-popular-indian-snacks-on-wooden-board.jpg?s=612x612&w=0&k=20&c=D1hB9hf5xdxiFkqgpE4BJ5kmLcSyUnUuVqKoAHg0jWU="
   },
   {
     id: 10,
     name: "Aloo Tikki",
     price: 30,
-    image: "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/1204866803/photo/indian-potato-patties-aloo-tikki-served-with-yogurt-close-up-in-a-dish-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=G7VRISuqTrUi_1D6O_EtjH2b1VH6H2yR-D9HKD7ro9s="
   },
   {
     id: 11,
     name: "Pani Puri",
     price: 25,
-    image: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/2162493302/photo/exploring-the-tangy-spicy-and-refreshing-delight-of-pani-puri-indias-favourite-street-food.jpg?s=612x612&w=0&k=20&c=a4_z86B2TwR29HCX1bgWS9IgXwtFCtoQNJonL4pCM1U="
   },
   {
     id: 12,
     name: "Dahi Puri",
     price: 40,
-    image: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/1314802039/photo/forehead-castle-chat.jpg?s=612x612&w=0&k=20&c=_FdVXvODCNpdJ9QujyAD6eaL9waZ6Yp01kfVIMxyjW4="
   },
   {
     id: 13,
     name: "Bhel Puri",
     price: 20,
-    image: "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/2234549366/photo/dahi-puri-chat-indian-snack-dahi-batata-puri.jpg?s=612x612&w=0&k=20&c=R262w6tt3CQFgDbTusBV6cU3sGwipfTq01VEvMUtUZ4="
   },
   {
     id: 14,
     name: "Pav Bhaji",
     price: 60,
-    image: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/1413557034/photo/indian-mumbai-street-style-pav-bhaji-garnished-with-peas-raw-onions-coriander-and-butter.jpg?s=612x612&w=0&k=20&c=Egw7wRqIHwKPtZfJujwrTiUMQUxxLJOO0iri-jSZRHA="
   },
   {
     id: 15,
     name: "Vada Pav",
     price: 25,
-    image: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/1329213718/photo/vada-pav.jpg?s=612x612&w=0&k=20&c=Yy3pm53KrPAnZXL9weCJDzXjxa2My34oVFx7RBCPmZ8="
   },
   {
     id: 16,
     name: "Bread Pakora",
     price: 20,
-    image: "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/1159362267/photo/bread-pakora.jpg?s=612x612&w=0&k=20&c=4Z-hAZ3T3bMNwcMeCUO7GOpHwhksX9oreQX7OEgKnx4="
   },
   {
     id: 17,
     name: "Paneer Pakora",
     price: 50,
-    image: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/1047191770/photo/paneer-pakora.jpg?s=612x612&w=0&k=20&c=F9LIxh07QwYabfynAzWne0v1FQEJEwGudGKCrRkKZqo="
   },
   {
     id: 18,
-    name: "Veg Spring Roll",
+    name: "Dal dhokla",
     price: 45,
-    image: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/513952576/photo/dhokla-indian-food.jpg?s=612x612&w=0&k=20&c=Vu4MISsQyfBgCy54Ju_vlDIuhaSzmfzhE9jC7LiD_yY="
   },
   {
     id: 19,
     name: "French Fries",
     price: 50,
-    image: "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/618214356/photo/basket-of-famous-fast-food-french-fries.jpg?s=612x612&w=0&k=20&c=EipztPdDBdSFWUX7PAaWs2c06fwJsODeVc_0TaO28z4="
   },
   {
     id: 20,
     name: "Masala Maggi",
     price: 40,
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80"
+    image: "https://media.istockphoto.com/id/490453539/photo/malaysian-cuisine-maggi-goreng-mamak.jpg?s=612x612&w=0&k=20&c=CFqRCy2CLXKyMjAYn_6hbfn-zm0QfgSq7-wNd-8uliA="
   }
   ],
 
@@ -140,140 +140,140 @@ const menuData = {
     name: "Veg Thali",
     price: 60,
     type: "Veg",
-    image: "https://www.imagesarovar.in/wp-content/uploads/edd/2025/01/indian-veg-food-thali-png-vector-illustration-pre-rgnh63652.jpg",
+    image: "https://images.unsplash.com/photo-1680359873864-43e89bf248ac?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 22,
     name: "Biryani",
     price: 100,
     type: "Non-Veg",
-    image: "https://i.pinimg.com/474x/67/e7/ff/67e7ff9859d6c9df0c30b897bf901e1d.jpg",
+    image: "https://images.unsplash.com/photo-1716550781939-beb7d7247aae?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 23,
     name: "Fried Rice",
     price: 80,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500",
+    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 24,
     name: "Paneer Curry",
     price: 110,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500",
+    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 25,
     name: "Chole Bhature",
     price: 90,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=500",
+    image: "https://media.istockphoto.com/id/843598982/photo/chole-with-kulcha-or-chana-masala-with-puri-indian-food.jpg?s=612x612&w=0&k=20&c=MaPwoEtn7T3wPM8vDuLDyEPGw-MymJ8DeYbJbjf2Ddg=",
   },
   {
     id: 26,
     name: "Masala Dosa",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500",
+    image: "https://media.istockphoto.com/id/1205482290/photo/masala-dosa-on-banana-leaf-with-both-sambar-and-coconut-chutney-south-indian-vegetarian-snack.jpg?s=612x612&w=0&k=20&c=FcujJMpizSvYEj5-2jspq5woZ4F5HloXuOX33CD1MeI=",
   },
   {
     id: 27,
     name: "Butter Chicken",
     price: 160,
     type: "Non-Veg",
-    image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500",
+    image: "https://media.istockphoto.com/id/639390540/photo/indian-butter-chicken.jpg?s=612x612&w=0&k=20&c=SaPiIG_0tdn9x9Q_y2YqTvpKBRGOlQB5wbdIj7e3w8Y=",
   },
   {
     id: 28,
     name: "Dal Makhani",
     price: 100,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500",
+    image: "https://media.istockphoto.com/id/1437065088/photo/spicy-dal-makhani-or-butter-daal-served-in-a-dish-isolated-on-grey-background-top-view-of.jpg?s=612x612&w=0&k=20&c=lUVmyJkCz7XpD_IctxeI4pf4nkiifZ08Y_w97imzXPc=",
   },
   {
     id: 29,
     name: "Rajma Chawal",
     price: 80,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500",
+    image: "https://media.istockphoto.com/id/669635320/photo/kidney-bean-curry-or-rajma-or-rajmah-chawal-and-roti-typical-north-indian-main-course.jpg?s=612x612&w=0&k=20&c=3ir3vZKHa2oPXkpEKHLbWPAPF1yhxRCyr4DIew41pzg=",
   },
   {
     id: 30,
     name: "Aloo Paratha",
     price: 50,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1626074353765-732f4dfd7c1f?w=500",
+    image: "https://media.istockphoto.com/id/1951940755/photo/close-up-image-of-indian-breakfast-dish-buffet-triangular-slices-of-aloo-parathas-on-white.jpg?s=612x612&w=0&k=20&c=mpfR51deNx7O621f4q1y_9Fh6sPx5oy7Iz2N1DrvxjQ=",
   },
   {
     id: 31,
     name: "Chicken Curry",
     price: 140,
     type: "Non-Veg",
-    image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500",
+    image: "https://media.istockphoto.com/id/1170729895/photo/indian-butter-chicken-horizontal-photo.jpg?s=612x612&w=0&k=20&c=4bZViynoVnP1HaWHIY1k5FvW-dj9DM2EOMHbKnAqYZ4=",
   },
   {
     id: 32,
     name: "Palak Paneer",
     price: 110,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500",
+    image: "https://media.istockphoto.com/id/971676568/photo/homemade-healthy-palak-paneer-bowl.jpg?s=612x612&w=0&k=20&c=aAE0fk-gF9XkgALJ_FfQvDFQrLHLu2dEqaeaHIXA5X8=",
   },
   {
     id: 33,
     name: "Pav Bhaji",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=500",
+    image: "https://media.istockphoto.com/id/1413557034/photo/indian-mumbai-street-style-pav-bhaji-garnished-with-peas-raw-onions-coriander-and-butter.jpg?s=612x612&w=0&k=20&c=Egw7wRqIHwKPtZfJujwrTiUMQUxxLJOO0iri-jSZRHA=",
   },
   {
     id: 34,
     name: "Veg Pulao",
     price: 75,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500",
+    image: "https://media.istockphoto.com/id/2212836819/photo/indian-veg-biryani-veg-pulav-indian-vegetable-pulav-biriyani-vegetable-biriyani-served-in-a.jpg?s=612x612&w=0&k=20&c=2SnCq94cN57u5wuEprgxtivFRu9g2bMkMfUTQTmmOkg=",
   },
   {
     id: 35,
     name: "Chilli Paneer",
     price: 120,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=500",
+    image: "https://media.istockphoto.com/id/1085159292/photo/malai-or-achari-paneer-in-a-gravy-made-using-red-gravy-and-green-capsicum-served-in-a-bowl.jpg?s=612x612&w=0&k=20&c=vjvURM1vDpKkRRw2NYQuoE9GLtdvopRPreeY6Wqxrno=",
   },
   {
     id: 36,
     name: "Tandoori Chicken",
     price: 180,
     type: "Non-Veg",
-    image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=500",
+    image: "https://media.istockphoto.com/id/1396604313/photo/roasted-whole-chicken-legs-with-condiment-directly-above-photo.jpg?s=612x612&w=0&k=20&c=JDs72E-fX5SdcBQREta58T82W8zO_rFiKC7d1WwEEUE=",
   },
   {
     id: 37,
     name: "Egg Curry",
     price: 90,
     type: "Non-Veg",
-    image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500",
+    image: "https://media.istockphoto.com/id/1072940148/photo/fried-egg-curry-or-anda-masala-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=cYvM9X6VQ0UlQyUEWvFk5VMNS6wg8K0o3kVuVDuwbZU=",
   },
   {
     id: 38,
     name: "Kadai Paneer",
     price: 120,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500",
+    image: "https://media.istockphoto.com/id/968505648/photo/indian-food-or-indian-curry-in-a-copper-brass-serving-bowl-with-bread-or-roti.jpg?s=612x612&w=0&k=20&c=S8uljX2XbtkXPLYyxbxX-y19pTt-iMr_X0JMSviQnT8=",
   },
   {
     id: 39,
     name: "Chicken Fried Rice",
     price: 120,
     type: "Non-Veg",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500",
+    image: "https://media.istockphoto.com/id/1320209493/photo/isolated-delicious-spicy-chicken-biryani-in-white-plate-on-white-background-indian-or.jpg?s=612x612&w=0&k=20&c=Vcfpfu9pAYJXp71nFqrwzWDsRtUIqLvMsdW4apsDWFc=",
   },
   {
     id: 40,
     name: "Naan with Curry",
     price: 100,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=500",
+    image: "https://media.istockphoto.com/id/968309596/photo/indian-food-or-indian-curry-in-a-copper-brass-serving-bowl-with-bread-or-roti.jpg?s=612x612&w=0&k=20&c=rl0JYh33uiM0LI9Op_s0Twzw0a9fqWblvbkWQUrjibo=",
   },
 ],
 
@@ -283,140 +283,140 @@ const menuData = {
     name: "Cold Coffee",
     price: 50,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=500",
+    image: "https://media.istockphoto.com/id/821034724/photo/cold-refreshing-iced-hot-chocolate-milk.jpg?s=612x612&w=0&k=20&c=NKiAWAYuNh-5KpLZ1ueSoTDeP4_nOcIRPScV068Hso4=",
   },
   {
     id: 42,
     name: "Milkshake",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500",
+    image: "https://media.istockphoto.com/id/1018364696/photo/banana-almond-smoothie-with-cinnamon-and-oat-flakes-and-coconut-milk-in-glass-jars.jpg?s=612x612&w=0&k=20&c=FefdMjOaJN-SIW43vUdriEFvHi4n8IOpoOm3wabOvQI=",
   },
   {
     id: 43,
     name: "Lemon Soda",
     price: 30,
     type: "Veg",
-    image: "https://png.pngtree.com/png-clipart/20240115/original/pngtree-watercolor-lemon-soda-drink-free-element-png-image_14116814.png",
+    image: "https://media.istockphoto.com/id/500202440/photo/freshly-made-lemonade-with-a-hint-of-mint.jpg?s=612x612&w=0&k=20&c=sn3OLyO3awUjDhX55Qjsx44ftQ8ABqA8zMS0zjPIxDA=",
   },
   {
     id: 44,
     name: "Fresh Juice",
     price: 40,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=500",
+    image: "https://media.istockphoto.com/id/452030153/photo/portion-of-fresh-made-orange-juice.jpg?s=612x612&w=0&k=20&c=vKLsN12Pj_akHtM6KxHdCDr2rczooiS5_ITNaI9RBXQ=",
   },
   {
     id: 45,
     name: "Mango Shake",
     price: 60,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=500",
+    image: "https://media.istockphoto.com/id/1077607626/photo/mango-lassi-yogurt-or-smoothie-with-turmeric-healthy-probiotic-indian-cold-summer-drink.jpg?s=612x612&w=0&k=20&c=Yy2RZt8KLnkNAudTtIka2o8iccZa4uBqbU9a9FGFcT0=",
   },
   {
     id: 46,
     name: "Oreo Shake",
     price: 80,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500",
+    image: "https://media.istockphoto.com/id/1130257494/photo/frozen-hot-chocolate-with-whipped-cream-in-mason-jar.jpg?s=612x612&w=0&k=20&c=mTGJeEIU6-AC5sCp64YERaxkFoEBVcrZfK4wm-Z4oCM=",
   },
   {
     id: 47,
     name: "Strawberry Shake",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1553787499-6f9133860278?w=500",
+    image: "https://media.istockphoto.com/id/576740204/photo/strawberry-smoothie.jpg?s=612x612&w=0&k=20&c=eqIe1_itBOqQmtV_KtPduPENbAZWsuM5Q9-qmLp0MAE=",
   },
   {
     id: 48,
     name: "Chocolate Shake",
     price: 80,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1577805947697-89e18249d767?w=500",
+    image: "https://media.istockphoto.com/id/926990564/photo/chocolate-milk-and-whipped-cream.jpg?s=612x612&w=0&k=20&c=LabS3iGKio9kYS7OUGsosTm0Bb4XKY8WkXPer_RU3IQ=",
   },
   {
     id: 49,
     name: "Orange Juice",
     price: 40,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=500",
+    image: "https://media.istockphoto.com/id/175022686/photo/fresh-orange-juice-in-glass-cup-next-to-a-sliced-orange.jpg?s=612x612&w=0&k=20&c=i-d5MEybAEydRQEo9bzo63iH-TDmGU1ZJN1X45MNiHM=",
   },
   {
     id: 50,
     name: "Watermelon Juice",
     price: 45,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?w=500",
+    image: "https://media.istockphoto.com/id/961872506/photo/watermelon-drink-on-wooden-background.jpg?s=612x612&w=0&k=20&c=gVIL1nzIxHAnZQF9pE4dlI2t_FyktLNJzb5r0y6TO7E=",
   },
   {
     id: 51,
     name: "Iced Tea",
     price: 35,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500",
+    image: "https://media.istockphoto.com/id/473340780/photo/homemade-iced-tea-and-lemonade.jpg?s=612x612&w=0&k=20&c=NR6AFmTJFWlwoPBKTcB6o9sicDlSZ-QwjkKPrz3Sx34=",
   },
   {
     id: 52,
     name: "Masala Chai",
     price: 20,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=500",
+    image: "https://media.istockphoto.com/id/1488404775/photo/karak-milk-chai-famous-indian-tea-on-white-background.jpg?s=612x612&w=0&k=20&c=D2Mqs0JuN2GO-bpG0pbODo2jCSl8Q4r1Z6qWsyjYw9s=",
   },
   {
     id: 53,
     name: "Hot Coffee",
     price: 30,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500",
+    image: "https://media.istockphoto.com/id/1467739371/photo/cup-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?s=612x612&w=0&k=20&c=M96KFhmhFhm-mNHnlzUcQWG5aKXvdT08pSekURc91o0=",
   },
   {
     id: 54,
     name: "Cappuccino",
     price: 60,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1534778101976-62847782c213?w=500",
+    image: "https://media.istockphoto.com/id/505168330/photo/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks.jpg?s=612x612&w=0&k=20&c=h7v8kAfWOpRapv6hrDwmmB54DqrGQWxlhP_mTeqTQPA=",
   },
   {
     id: 55,
     name: "Hot Chocolate",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1542990253-0b8be8e1f6b0?w=500",
+    image: "https://media.istockphoto.com/id/803432376/photo/homemade-spicy-hot-chocolate-with-cinnamon.jpg?s=612x612&w=0&k=20&c=pXl1-IfBSnw1rzQRfx_cXmu1mjF32B-hT0LUfEGMnsA=",
   },
   {
     id: 56,
     name: "Virgin Mojito",
     price: 60,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1513558161293-cdaf765edfd7?w=500",
+    image: "https://media.istockphoto.com/id/2051002797/photo/virgin-lemon-mint-mojito-soda-served-in-cocktail-glass-isolated-on-dark-background-side-view.jpg?s=612x612&w=0&k=20&c=0JdFHWjV-n3d0tWmAIKOcZfCqkLJYByNaXUrIUTTu1U=",
   },
   {
     id: 57,
     name: "Pineapple Juice",
     price: 45,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1589733955941-5eeaf752f6dd?w=500",
+    image: "https://media.istockphoto.com/id/955346532/photo/pineapple-smoothie-with-fresh-pineapple-on-wooden-table.jpg?s=612x612&w=0&k=20&c=lgkhDB7Zm2_4WlVH82EpqBXYEaT0BgmUGtsad9xw5HQ=",
   },
   {
     id: 58,
     name: "Banana Shake",
     price: 50,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500",
+    image: "https://media.istockphoto.com/id/1321518131/photo/banana-milkshake-with-choco-decorated-with-fruit-on-table-isolated.jpg?s=612x612&w=0&k=20&c=21HqbvfPWUaW3yQRrluT4gUcOk2Bk1ouOK_j4IDFLmA=",
   },
   {
     id: 59,
     name: "Coconut Water",
     price: 35,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?w=500",
+    image: "https://media.istockphoto.com/id/1398144577/photo/coconut-juice.jpg?s=612x612&w=0&k=20&c=5eQmsohtFTGluLaLgLAgW-QNwjboumzMhaD9GnIYEIg=",
   },
   {
     id: 60,
     name: "Blue Lagoon Mocktail",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1513558161293-cdaf765edfd7?w=500",
+    image: "https://media.istockphoto.com/id/1311267671/photo/blue-lagoon-cocktail.jpg?s=612x612&w=0&k=20&c=8HxTWUNP-czACxqW3zmGPqeLmw7EqPjzFM-sETFHDeM=",
   },
 ],
 
@@ -426,140 +426,140 @@ const menuData = {
     name: "Ice Cream",
     price: 40,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500",
+    image: "https://media.istockphoto.com/id/2188918514/photo/ice-cream.jpg?s=612x612&w=0&k=20&c=CTxy782FVPmBPulskk28Gr2yiOrdfx0qzuuwoi_EVgE=",
   },
   {
     id: 62,
     name: "Brownie",
     price: 60,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500",
+    image: "https://media.istockphoto.com/id/1160637981/photo/homemade-double-chocolate-brownies-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=uZTLiAOqatPVij_BDTUzfoA96937-53cCE7FnamqoFU=",
   },
   {
     id: 63,
     name: "Chocolate Cake",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500",
+    image: "https://media.istockphoto.com/id/869598944/photo/delicious-chocolate-layer-cake.jpg?s=612x612&w=0&k=20&c=eMT0XJkEOd-qpMPdUg6Tm9RCnwfrD_1UT4TFNitguIE=",
   },
   {
     id: 64,
     name: "Donut",
     price: 40,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=500",
+    image: "https://media.istockphoto.com/id/149282990/photo/a-pile-of-glazed-doughnuts-with-sprinkles.jpg?s=612x612&w=0&k=20&c=Y7lKtmJiiqdaeR1QeIHpN0D5GADFo_Pn7HmxBVNOwgY=",
   },
   {
     id: 65,
     name: "Gulab Jamun",
     price: 35,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1666190092159-4d8c7d0b1c0f?w=500",
+    image: "https://media.istockphoto.com/id/1194662949/photo/indian-dessert-or-sweet-dish-gulab-jamun-in-white-bowl-on-yellow-background.jpg?s=612x612&w=0&k=20&c=XAOQkQC-Mu-XXviGtWU6NTz8vZzT1sY0oaJQ4jWo2Fo=",
   },
   {
     id: 66,
     name: "Rasgulla",
     price: 35,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1601303516534-7d1e3d0f6b6d?w=500",
+    image: "https://media.istockphoto.com/id/1044080542/photo/indian-rasgulla-or-rosogulla-dessert-sweet-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=tdAE1jz-B43HcrqBL7dLSiV9tTchIVuPqFY0nMwrzrs=",
   },
   {
     id: 67,
     name: "Rasmalai",
     price: 50,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1605197161470-5d2b1b8b6a9c?w=500",
+    image: "https://media.istockphoto.com/id/884011250/photo/ras-malai-is-an-indian-dessert.jpg?s=612x612&w=0&k=20&c=hdl3cneTodgvAyK7VBe-SW8CYtRtCznq08F5H56WYmA=",
   },
   {
     id: 68,
     name: "Jalebi",
     price: 30,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1589119908995-c6837fa14848?w=500",
+    image: "https://media.istockphoto.com/id/1159362325/photo/bread-pakora.jpg?s=612x612&w=0&k=20&c=93uILcInCMXroXgjEJYXNeUzWh5NASSrEnylAgW7hcs=",
   },
   {
     id: 69,
     name: "Kaju Katli",
     price: 60,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1605197161470-5d2b1b8b6a9c?w=500",
+    image: "https://media.istockphoto.com/id/1225627187/photo/delicious-indian-sweet-kaju-katli-in-a-white-bowl.jpg?s=612x612&w=0&k=20&c=l9XABMf_h69TO_vRVTOrUbk5-26tLQEeDHiJMU4RTUg=",
   },
   {
     id: 70,
     name: "Gajar Ka Halwa",
     price: 50,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1601303516534-7d1e3d0f6b6d?w=500",
+    image: "https://media.istockphoto.com/id/1447442563/photo/homemade-carrot-pudding-gajar-halwa-indian-dessert.jpg?s=612x612&w=0&k=20&c=9O3ArX_Zp9nMA-7Ffpu6zxdoV9FRfcuajc1FlCyQuP8=",
   },
   {
     id: 71,
     name: "Cheesecake",
     price: 90,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500",
+    image: "https://media.istockphoto.com/id/2152360017/photo/strawberry-cheesecake.jpg?s=612x612&w=0&k=20&c=pq4KFNu4AKq7_1dDRSr-_L45SAQYZw2HVCq6F3DlXhg=",
   },
   {
     id: 72,
     name: "Red Velvet Cake",
     price: 80,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1586788680434-30d324b2d7b4?w=500",
+    image: "https://media.istockphoto.com/id/1445748694/photo/delicious-homemade-red-velvet-cake-with-meringue.jpg?s=612x612&w=0&k=20&c=qtHEM9_3qqVXTRqmThGhC6aRzNC02cD2nyrl7EEEFZY=",
   },
   {
     id: 73,
     name: "Cupcake",
     price: 35,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=500",
+    image: "https://media.istockphoto.com/id/183060524/photo/three-cupcakes.jpg?s=612x612&w=0&k=20&c=n6U-bFrjxvBexyrsnS1ryULEZoKYwH-tuU9PFY-2hLA=",
   },
   {
     id: 74,
     name: "Waffles",
     price: 80,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1562376552-0d160a2f238d?w=500",
+    image: "https://media.istockphoto.com/id/1354019552/photo/three-crispy-fried-french-waffles-isolated-on-white.jpg?s=612x612&w=0&k=20&c=vP4uGvkCH9oK0v6XKsAfYnJtQDueSY_xHDmW_o1dDLs=",
   },
   {
     id: 75,
     name: "Pancakes",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=500",
+    image: "https://media.istockphoto.com/id/172249723/photo/pancakes.jpg?s=612x612&w=0&k=20&c=eBx79Vi946vGj4RMmT0OIbpyjk0HtE-_HFHqrLD3k3Y=",
   },
   {
     id: 76,
     name: "Chocolate Mousse",
     price: 65,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1511715112108-9acc2c7e9b69?w=500",
+    image: "https://media.istockphoto.com/id/180811737/photo/chocolate-mousse.jpg?s=612x612&w=0&k=20&c=X5oGiop0rBzSNhHPvlXESrAE9IR2dStJqRH9LiQ5xbc=",
   },
   {
     id: 77,
     name: "Apple Pie",
     price: 70,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1621743478914-cc8a86d7e7b5?w=500",
+    image: "https://media.istockphoto.com/id/174920929/photo/apple-pie.jpg?s=612x612&w=0&k=20&c=PyM8GnPzIlOJOG9yGvODlDQ48msyK32H5uJSCNmGG90=",
   },
   {
     id: 78,
     name: "Tiramisu",
     price: 100,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=500",
+    image: "https://media.istockphoto.com/id/517368976/photo/slice-of-dessert.jpg?s=612x612&w=0&k=20&c=fS6QBm88-tmGNHbl7ePpHiysNsCgBJ8D1ZPtabLwH-0=",
   },
   {
     id: 79,
     name: "Churros",
     price: 60,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1624371414361-e670edf4898d?w=500",
+    image: "https://media.istockphoto.com/id/2154912399/photo/churros-with-hot-chocolate-sauce-sugar-and-cinnamon.jpg?s=612x612&w=0&k=20&c=q1m2lZOM8mqLo9ruPuhh_NZGhAdf4rAUtvGga_iLvPI=",
   },
   {
     id: 80,
     name: "Kulfi",
     price: 30,
     type: "Veg",
-    image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500",
+    image: "https://media.istockphoto.com/id/503009769/photo/kulfi-single.jpg?s=612x612&w=0&k=20&c=PVO7tAX8oU4UZqdzCB6yfax6zS2Pw-An-Onj6SU5jBk=",
   },
 ],
 }
