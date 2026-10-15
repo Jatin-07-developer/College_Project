@@ -8,7 +8,7 @@ const Hero = () => {
             <h2 className="text-2xl text-[#ffcb3d] font-semibold">Fresh. Fast. Affordable</h2>
             <h1 className="text-6xl text-white font-bold">Good food between your lectures</h1>
             <h2 className="text-2xl text-gray-300 font-medium mt-4">Hot meals, snacks, and combos made for students</h2>
-            <button className="btn w-[150px] h-[50px] bg-white text-black font-bold hover:bg-gray-200 mt-4 rounded-xl font-light text-xl">Visit Menu</button>
+            <button className="btn w-[150px] h-[50px] bg-white text-black font-bold hover:bg-gray-200 mt-4 rounded-xl font-light text-xl cursor-pointer">Visit Menu</button>
           </div>
 
           <div className="w-[40%] h-[300px] flex flex-col items-center justify-center gap-2 bg-[#2d1905] border border-dashed border-[#6a4c2b] rounded-2xl text-[#f5d6a0]">

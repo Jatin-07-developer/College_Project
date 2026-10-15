@@ -10,7 +10,7 @@ const menuData = {
       price: 50,
       type: "Veg",
       image:
-      "https://images.unsplash.com/photo-1768215610440-fcb96https://media.istockphoto.com/id/1160637981/photo/homemade-double-chocolate-brownies-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=uZTLiAOqatPVij_BDTUzfoA96937-53cCE7FnamqoFU=31c7ee2?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+      "https://media.istockphoto.com/id/618214356/photo/basket-of-famous-fast-food-french-fries.jpg?s=612x612&w=0&k=20&c=EipztPdDBdSFWUX7PAaWs2c06fwJsODeVc_0TaO28z4="
     },
     {
       id: 2,
