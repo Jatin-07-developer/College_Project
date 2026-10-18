@@ -8,7 +8,7 @@ const dishSchema = new mongoose.Schema({
     required: true,
     enum: ["Snacks", "Meals", "Beverages", "Desserts"],
   },
-  isVeg: { type: Boolean, default: true },
+  type: { type: String, default: "" },   // same field as in your data
   image: { type: String, default: "" },
   available: { type: Boolean, default: true },
 });

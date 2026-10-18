@@ -6,6 +6,9 @@ const cors = require("cors");
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.use("/api/menu", require("./src/routes/menu"));
+app.use("/api/orders", require("./src/routes/order"));
+app.use("/api/admin", require("./src/routes/admin"));
 
 mongoose
   .connect(process.env.MONGO_URI)
